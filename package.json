@@ -1,0 +1,20 @@
+{
+  "name": "image-parser",
+  "version": "0.1",
+  "description": "Parse texts from images",
+  "author": {
+    "name": "StuRents",
+    "email": "supratims@gmail.com"
+  },
+  "website": {
+    "url": "//yettobepublished"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "private": true,
+  "dependencies": {
+    "request": "^2.79.0",
+    "tesseract.js": "^1.0.10"
+  }
+}
